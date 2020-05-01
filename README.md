@@ -1,3 +1,3 @@
 # Machine-Translation
 
-This project is a part of Udacity's Computer Vision Nanodegree 
+This project is a part of Udacity's Natural Language Processing Nanodegree 
